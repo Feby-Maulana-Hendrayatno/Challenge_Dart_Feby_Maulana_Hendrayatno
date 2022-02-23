@@ -14,9 +14,9 @@ void main() {
     listMK.add(mk.toString());
   }
 
-  for (var nm_matkul in listMK) {
-    print("Nama Mata Kuliah $nm_matkul");
-  }
+  // for (var nm_matkul in listMK) {
+  //   print("Nama Mata Kuliah $nm_matkul");
+  // }
 
-  print("Total Matakuliah yang di Pelajari Sebanyak $jumlahInt Matakuliah");
+  // print("Total Matakuliah yang di Pelajari Sebanyak $jumlahInt Matakuliah");
 }
